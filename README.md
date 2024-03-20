@@ -17,6 +17,7 @@ Sales and subscription page on Alura's digital platform for technology and langu
 ## Features and Application Demonstration
 - `Feature 1`: Creating buttons and layout for course subscription with background cover.
 - `Feature 2`: Responsive page, with layout executed also for other screen sizes.
+- `Feature 3`: Implementation of images as background, for example, the logo in the menu, as well as images throughout the document for better interpretation and readability of the page.
 
 ## Project Access
 Project requirements:
@@ -27,7 +28,7 @@ Access the project hosted [here](https://portfolio-page-five-alpha.vercel.app) a
  - Easy implementation, [click](https://portfolio-page-five-alpha.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
 
 Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/portfolio-page) or download the project [here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+ - Access the project source code [here](https://github.com/victorhubarb/alura-plus) or download the project [here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
 
 Clone repository with the following steps:
  1. Open the terminal
