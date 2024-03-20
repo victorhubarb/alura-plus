@@ -25,9 +25,9 @@ Sales and subscription page on Alura's digital platform for technology and langu
 Project requirements:
  - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://portfolio-page-five-alpha.vercel.app) and have fun:
+Access the project hosted [here](https://alura-plus-plum-two-57.vercel.app) and have fun:
  - Project hosted on Vercel.
- - Easy implementation, [click](https://portfolio-page-five-alpha.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+ - Easy implementation, [click](https://alura-plus-plum-two-57.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
 
 Have the code on your computer:
  - Access the project source code [here](https://github.com/victorhubarb/alura-plus) or download the project [here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
