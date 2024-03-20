@@ -13,11 +13,13 @@
 
 ## Project Description
 Sales and subscription page on Alura's digital platform for technology and language courses. Initially, it displays the price and subscription options, followed by subscriber benefits and the devices on which the app is available for use.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
 - `Feature 1`: Creating buttons and layout for course subscription with background cover.
 - `Feature 2`: Responsive page, with layout executed also for other screen sizes.
 - `Feature 3`: Implementation of images as background, for example, the logo in the menu, as well as images throughout the document for better interpretation and readability of the page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
 Project requirements:
@@ -34,11 +36,14 @@ Clone repository with the following steps:
  1. Open the terminal
  2. git clone https://github.com/victorhubarb/alura-plus.git
  3. Press ENTER to create your clone
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Developers
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/80085116?v=4" width=115><br><sub>Victor Barbosa</sub>](https://github.com/victorhubarb) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width=115><br><sub>Alura</sub>](https://github.com/alura-cursos) |
 | :---: | :--: |
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
