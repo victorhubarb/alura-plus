@@ -27,11 +27,11 @@ Access the project hosted [here](https://portfolio-page-five-alpha.vercel.app) a
  - Easy implementation, [click](https://portfolio-page-five-alpha.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
 
 Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/portfolio-page) or download the project [here](https://github.com/victorhubarb/portfolio-page/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+ - Access the project source code [here](https://github.com/victorhubarb/portfolio-page) or download the project [here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
 
 Clone repository with the following steps:
  1. Open the terminal
- 2. git clone https://github.com/victorhubarb/portfolio-page.git
+ 2. git clone https://github.com/victorhubarb/alura-plus.git
  3. Press ENTER to create your clone
 
 ## Technologies Used
