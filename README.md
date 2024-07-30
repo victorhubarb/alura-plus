@@ -12,30 +12,44 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Sales and subscription page on Alura's digital platform for technology and language courses. Initially, it displays the price and subscription options, followed by subscriber benefits and the devices on which the app is available for use.
+The Alura+ Subscription Page is a specially designed landing page aimed at encouraging users to subscribe to the Alura+ platform, an online learning community featuring a wide range of educational content including videos, audio lessons, and blogs. Developed using HTML and CSS, this page highlights the benefits of joining Alura+ through a visually appealing and user-friendly layout. It effectively combines promotional content with actionable subscription options to optimize user engagement and conversion rates.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: Creating buttons and layout for course subscription with background cover.
-- `Feature 2`: Responsive page, with layout executed also for other screen sizes.
-- `Feature 3`: Implementation of images as background, for example, the logo in the menu, as well as images throughout the document for better interpretation and readability of the page.
+- **Promotional Content Section**: The page kicks off with a vibrant section featuring promotional texts about Alura+ on the left and images of course instructors on the right, designed to capture the user's interest immediately.
+- **Interactive Subscription Buttons**: Subscription buttons are dynamically styled to change appearance when hovered over, providing clear visual feedback to the user.
+- **Benefits Sections**:
+  - Each benefit of subscribing to Alura+ is highlighted in separate sections that alternate images and text for visual diversity and appeal.
+  - The first benefits section features an image on the left and descriptive text on the right.
+  - Subsequent sections alternate the image and text placement, with one section specifically including a button that encourages users to subscribe.
+- **Multi-device Accessibility**: Explains the availability of Alura+ across various devices, accompanied by images of each device (e.g., smartphones, tablets, computers) to visually represent the platform's versatility.
+- **Footer**: Includes additional links that provide users with more information about Alura+ and its offerings.
+
+## Note
+- **Static Elements**: Currently, the website serves primarily as a static prototype. Interactive elements such as subscription buttons are designed for visual demonstration and do not link to actual subscription services.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://alura-plus-plum-two-57.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://alura-plus-plum-two-57.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: An IDE like Visual Studio Code is recommended for local development, but is not necessary for accessing the hosted version of the project.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/alura-plus) or download the project [here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Visit the Alura+ Subscription Page directly through its hosted version on Vercel:
+  - [Visit Alura+](https://alura-plus-plum-two-57.vercel.app) to experience the platform's subscription page in action. This allows you to interact with the page immediately, without any setup.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/alura-plus.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - The source code is available on GitHub. You can view it by visiting the [Alura+ repository](https://github.com/victorhubarb/alura-plus).
+  - To download the project directly, [click here](https://github.com/victorhubarb/alura-plus/archive/refs/heads/main.zip), unzip the file after downloading, and open the project in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/alura-plus.git
+  cd alura-plus
+  
+  # You are now ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
