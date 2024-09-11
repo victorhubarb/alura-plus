@@ -32,6 +32,7 @@ The page displays a responsive layout that includes:
 - Subscription buttons with interactive background.
 - Subscription benefits.
 - Description of supported devices.
+  
 The site also includes images that illustrate the courses and the platform.
 
 ## Features
